@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field>due_date</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-18 22:00:22</sys_created_on>
+        <sys_id>e4f3d2a48c1523007f4473d620e0ff5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>due_date</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">08674e208c1523007f4473d620e0ff5e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">08674e208c1523007f4473d620e0ff5e</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e4f3d2a48c1523007f4473d620e0ff5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-18 22:00:22</sys_updated_on>
+        <table>x_snc_safety_issue</table>
+        <ui_policy display_value="Hide due date for small issues">3773de648c1523007f4473d620e0ffcd</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
